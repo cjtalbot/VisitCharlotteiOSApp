@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>address</key>
+		<string>400 E. Martin Luther King, Jr. Boulevard</string>
+		<key>defaultSequence</key>
+		<integer>1</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favlist</key>
+		<array/>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>With reverence and humor, the NASCAR Hall of Fame entertains both the serious fan and the curious observer.  At Brevard St. and Martin Luther King, Jr. Blvd. the Ceremonial Plaza honors drivers with commemorative bricks.  Catch a glimpse of Glory Road displaying 18 historic cars.  The ascending grading conveys the incline of 46 historic and current tracks.  Inside enjoy interactive exhibits and simulators, the science of racing, and the poignant history and heritage of NASCAR.</string>
+		<key>image</key>
+		<string>nascar</string>
+		<key>latitude</key>
+		<real>35.221324</real>
+		<key>longitude</key>
+		<real>-80.84340899999999</real>
+		<key>maxFavs</key>
+		<integer>0</integer>
+		<key>name</key>
+		<string>NASCAR Hall of Fame</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>NASCAR Hall of Fame</string>
+		<key>type</key>
+		<string>Sports</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>435 S. Tryon Street</string>
+		<key>defaultSequence</key>
+		<integer>2</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>Giant books and pages as well as a walkway of magical sounds enliven this literary-themed wonderland of a park.  Colorful benches and the fantasy Fish Fountain offer areas to relax.  Dine alfresco or indoors at restaurants along the park.</string>
+		<key>image</key>
+		<string>green</string>
+		<key>latitude</key>
+		<real>35.2246682</real>
+		<key>longitude</key>
+		<real>-80.8461514</real>
+		<key>name</key>
+		<string>The Green</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>The Green</string>
+		<key>type</key>
+		<string>Park</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>551 S. Tryon Street</string>
+		<key>defaultSequence</key>
+		<integer>3</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>Named for Charlotte&apos;s first African-American mayor, this 45 x 400 ft. building showcases a glass mural by NC artist, David Wilson, at Stonewall and College Streets.  The three galleries provide the unique display of African-American visual art and expressive culture.</string>
+		<key>image</key>
+		<string>ganttcenter</string>
+		<key>latitude</key>
+		<real>35.2233346</real>
+		<key>longitude</key>
+		<real>-80.848157</real>
+		<key>name</key>
+		<string>Harvey B. Gantt Center for African-American Arts + Culture</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>Harvey B. Gantt Center</string>
+		<key>type</key>
+		<string>Museum</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>500 S. Tryon Street</string>
+		<key>defaultSequence</key>
+		<integer>4</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>This name is worth an explanation.  After gold was discovered northeast of town in 1799 and identified in 1802 at the Reed&apos;s farm, a gold rush began.  From 1837-1861, the first branch of the U.S. Mint operated on the corner of W. Trade St. and Mint St. Uptown.  In 1936, the building was moved and became the first art museum in NC, called The Mint Museum.  The Mint Museum Uptown houses world-renowned Craft + Design, American and Contemporary collections.</string>
+		<key>image</key>
+		<string>mint</string>
+		<key>latitude</key>
+		<real>35.2240573</real>
+		<key>longitude</key>
+		<real>-80.84786649999999</real>
+		<key>name</key>
+		<string>Mint Museum Uptown</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>Mint Museum</string>
+		<key>type</key>
+		<string>Museum</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>420 S. Tryon Street</string>
+		<key>defaultSequence</key>
+		<integer>5</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>Created by Nikki de Saint Phalle, the whimsical Firebird (L&apos;Oiseau de Feu sur L&apos;Arche) offers a bright welcome to the Levine Center for the Arts.  Designed by Swiss architect, Mario Botta, the Bechtler features mid-twentieth century modern art.  Next door, the Knight Theater is the primary venue for NC Dance Theatre and other performers.</string>
+		<key>image</key>
+		<string>bechtler</string>
+		<key>latitude</key>
+		<real>35.224469</real>
+		<key>longitude</key>
+		<real>-80.847493</real>
+		<key>name</key>
+		<string>Bechtler Museum of Modern Art and &quot;The Firebird&quot;</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>Bechtler Museum</string>
+		<key>type</key>
+		<string>Museum</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>330 S. Tryon Street, Suite 100</string>
+		<key>defaultSequence</key>
+		<integer>6</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>Find souvenirs and all the fun things to experience in Charlotte by browsing brochures or consulting with an information specialist to personalize your visit.  (Ticketmaster outlet)</string>
+		<key>image</key>
+		<string>info</string>
+		<key>latitude</key>
+		<real>35.225314</real>
+		<key>longitude</key>
+		<real>-80.84650000000001</real>
+		<key>name</key>
+		<string>Visitor Info Center</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>Visitor Center</string>
+		<key>type</key>
+		<string>Information</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>320 S. Tryon Street</string>
+		<key>defaultSequence</key>
+		<integer>7</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>Built in 1914 by developer Edward Dilworth Latta, this lovely building adjoining Brevard Court housed offices and space for grading cotton under the natural light of the glass ceiling.  Now restaurants, salons, and businesses fill its quaint interior.</string>
+		<key>image</key>
+		<string>latta</string>
+		<key>latitude</key>
+		<real>35.2256566</real>
+		<key>longitude</key>
+		<real>-80.8463824</real>
+		<key>name</key>
+		<string>Latta Arcade</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>Latta Arcade</string>
+		<key>type</key>
+		<string>Shopping</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>301 S. Tryon Street</string>
+		<key>defaultSequence</key>
+		<integer>8</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>Celebrate the exuberance of childhood with the bronze likenesses of children playing in the cascading fountain created by Dennis Smith and David Wagner.</string>
+		<key>image</key>
+		<string>plaza</string>
+		<key>latitude</key>
+		<real>35.22427</real>
+		<key>longitude</key>
+		<real>-80.84554</real>
+		<key>name</key>
+		<string>The Plaza</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>The Plaza</string>
+		<key>type</key>
+		<string>Park</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Intersection of Trade and Tryon</string>
+		<key>defaultSequence</key>
+		<integer>9</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>The heartbeat of Charlotte since Thomas Polk built the first courthouse here.  On the SW corner, read about this town founder at Thomas Polk Park.  Tradition says the Mecklenburg Declaration of Independence was read here May 20, 1775.  Raymond Kaskey&apos;s bronze statues are significant to Charlotte:  Commerce, Transportation, Industry, and The Future.  On the NE corner, enjoy the shops at Founders Hall and the frescoes by Ben Long in the lobby of Bank of America Corporate Center, Charlotte&apos;s tallest building at 60 stories.</string>
+		<key>image</key>
+		<string>square</string>
+		<key>latitude</key>
+		<real>35.2271967</real>
+		<key>longitude</key>
+		<real>-80.8430844</real>
+		<key>name</key>
+		<string>Intersection of Trade and Tryon, &quot;The Square&quot;</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>The Square</string>
+		<key>type</key>
+		<string>Park</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>200 W. Trade Street</string>
+		<key>defaultSequence</key>
+		<integer>10</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>Built on the site of Charlotte&apos;s interdenominational town church, this Gothic-revival style church from 1857 was modified in the late 1800s.  Ben Long&apos;s fresco, The Good Samaritan, provides inspiration in the fellowship building.</string>
+		<key>image</key>
+		<string>church</string>
+		<key>latitude</key>
+		<real>35.2290459</real>
+		<key>longitude</key>
+		<real>-80.843611</real>
+		<key>name</key>
+		<string>First Presbyterian Church</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>First Presbyterian Church</string>
+		<key>type</key>
+		<string>Church</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>5th, Poplar, and Church Streets</string>
+		<key>defaultSequence</key>
+		<integer>11</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>This was the town cemetery from 1776 to 1867.  Those interred here include Thomas Polk, town founder and Revolutionary War officer.  Maj. Gen. George Graham, the hero who helped hold back Cornwallis&apos; troops at McIntire&apos;s Farm, and Dr. Nathaniel Alexander, a surgeon in the NC Regiment of the Continental Line and governor of NC 5th, Poplar, and Church Streets.</string>
+		<key>image</key>
+		<string>settlers</string>
+		<key>latitude</key>
+		<real>35.228927</real>
+		<key>longitude</key>
+		<real>-80.843024</real>
+		<key>name</key>
+		<string>Settlers&apos; Cemetery</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>Settlers&apos; Cemetery</string>
+		<key>type</key>
+		<string>Cemetery</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Fourth Ward</string>
+		<key>defaultSequence</key>
+		<integer>12</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>Charlotte was organized in political wards from the mid 1800s until 1945, with the original four wards forming quadrants around The Square.  The NW blocks comprise Fourth Ward, bounded by Trade, Tryon, Pine, and 10th streets.  The concentration of many stately Victorian-Era homes along Poplar St. and Pine St. between 7th and 9th streets is often referred to as Historic Fourth Ward.</string>
+		<key>image</key>
+		<string>fourthward</string>
+		<key>latitude</key>
+		<real>35.2310009</real>
+		<key>longitude</key>
+		<real>-80.84193070000001</real>
+		<key>name</key>
+		<string>Fourth Ward</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>Fourth Ward</string>
+		<key>type</key>
+		<string>Historic Area</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>237 N. Tryon Street</string>
+		<key>defaultSequence</key>
+		<integer>13</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>Built in 1929, this elegant 10-story hotel with neoclassical features is the last historic hotel Uptown.</string>
+		<key>image</key>
+		<string>dunhill</string>
+		<key>latitude</key>
+		<real>35.2288118</real>
+		<key>longitude</key>
+		<real>-80.84108449999999</real>
+		<key>name</key>
+		<string>The Dunhill Hotel</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>The Dunhill Hotel</string>
+		<key>type</key>
+		<string>Hotel</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>301 N. Tryon Street</string>
+		<key>defaultSequence</key>
+		<integer>14</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>In this hands-on museum, science comes alive through experiments, changing exhibits, a rain forest, aquariums totaling 24,000 gallons of sea water, and the IMAX Dome Theatre.</string>
+		<key>image</key>
+		<string>discoveryplace</string>
+		<key>latitude</key>
+		<real>35.229254</real>
+		<key>longitude</key>
+		<real>-80.84045999999999</real>
+		<key>name</key>
+		<string>Discovery Place</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>Discovery Place</string>
+		<key>type</key>
+		<string>Museum</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>310 N. Tryon Street</string>
+		<key>defaultSequence</key>
+		<integer>15</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>Note the quotes on the columns.  The Carolina Room offers reference materials about local history.</string>
+		<key>image</key>
+		<string>library</string>
+		<key>latitude</key>
+		<real>35.2285169</real>
+		<key>longitude</key>
+		<real>-80.839928</real>
+		<key>name</key>
+		<string>Public Library of Charlotte &amp; Mecklenburg County</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>Public Library</string>
+		<key>type</key>
+		<string>Library</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>345 N. Tryon Street</string>
+		<key>defaultSequence</key>
+		<integer>16</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>This complex was inspired by the former sanctuary of First Baptist Church (1908), now called McGlohon Theatre for composer, Loonis McGlohon, of Charlotte.  From College St., enter The Light Factory Contemporary Museum of Photography and Film, one of only four such museums in the U.S.</string>
+		<key>image</key>
+		<string>spirit</string>
+		<key>latitude</key>
+		<real>35.2294003</real>
+		<key>longitude</key>
+		<real>-80.83996759999999</real>
+		<key>name</key>
+		<string>Spirit Square</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>Spirit Square</string>
+		<key>type</key>
+		<string>Museum</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>401 N. Tryon Street</string>
+		<key>defaultSequence</key>
+		<integer>17</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>In the middle of the building&apos;s domed arched walkway, Ben Long&apos;s open-air fresco, Continuum, includes NC symbols and a self portrait, an artist at an easel.</string>
+		<key>image</key>
+		<string>transamerica</string>
+		<key>latitude</key>
+		<real>35.230194</real>
+		<key>longitude</key>
+		<real>-80.839336</real>
+		<key>name</key>
+		<string>Transamerica Square</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>Transamerica Square</string>
+		<key>type</key>
+		<string>Park</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>701 N. Tryon Street</string>
+		<key>defaultSequence</key>
+		<integer>18</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>This center is named for two former New York City Ballet stars who are now NC Dance Theatre&apos;s artistic directors.  Plies and pirouettes are visible to passers-by on Tryon St. in these NC Dance Theatre rehearsal studios.</string>
+		<key>image</key>
+		<string>dance</string>
+		<key>latitude</key>
+		<real>35.232553</real>
+		<key>longitude</key>
+		<real>-80.836707</real>
+		<key>name</key>
+		<string>Patricia McBride and Jean-Pierre Bonnefoux Center for Dance</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>Center for Dance</string>
+		<key>type</key>
+		<string>Theatre</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>721 N. Tryon Street</string>
+		<key>defaultSequence</key>
+		<integer>19</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>Built in 1927 as an ARP church and repurposed after a fire as a sanctuary for artists in 1999, the exposed brick and vaulted ceiling provides the perfect canvas for galleries and studios.</string>
+		<key>image</key>
+		<string>mccoll</string>
+		<key>latitude</key>
+		<real>35.232608</real>
+		<key>longitude</key>
+		<real>-80.836015</real>
+		<key>name</key>
+		<string>McColl Center for Visual Art</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>McColl Center</string>
+		<key>type</key>
+		<string>Museum</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>200 E. 7th Street</string>
+		<key>defaultSequence</key>
+		<integer>20</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>Through interactive exhibits, this museum captures moments in history of the South and the Charlotte area, in particular, from the end of the Civil War to the present.  Feel the texture of cotton before processing, walk through a tenant farmer&apos;s cabin, and sit at a lunch counter to learn about civil rights.  In addition, the museum offers various events to explore the history and cotemporary issues of the New South.</string>
+		<key>image</key>
+		<string>levine</string>
+		<key>latitude</key>
+		<real>35.228234</real>
+		<key>longitude</key>
+		<real>-80.83865900000001</real>
+		<key>name</key>
+		<string>Levine Museum of the New South</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>Levine Museum</string>
+		<key>type</key>
+		<string>Museum</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Parallel along the LYNX Light Rail track between 6th and 7th</string>
+		<key>defaultSequence</key>
+		<integer>21</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>This LYNX stop, also home to restaurants and parking sports 30&apos; fins which chime and light up if touched.  Solve a riddle on the uilding for a fun sound and light show as part of Christopher Janney&apos;s &quot;Touch My Building&quot; interactive art.</string>
+		<key>image</key>
+		<string>7thstreet</string>
+		<key>latitude</key>
+		<real>35.227367</real>
+		<key>longitude</key>
+		<real>-80.838127</real>
+		<key>name</key>
+		<string>Seventh-Street Station</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>Seventh-Street Station</string>
+		<key>type</key>
+		<string>Shopping</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>300 E. 7th Street</string>
+		<key>defaultSequence</key>
+		<integer>22</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>Designed to excite all ages from toddlers through teens, ImaginOn is an extraordinary high-tech &quot;green&quot; library and children&apos;s theater combination.  Enjoy the large outdoor sculptures of The Writer&apos;s Desk by Larry Kirkland.</string>
+		<key>image</key>
+		<string>imaginon</string>
+		<key>latitude</key>
+		<real>35.2272893</real>
+		<key>longitude</key>
+		<real>-80.8374137</real>
+		<key>name</key>
+		<string>ImaginOn:  The Joe and Joan Martin Center</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>ImaginOn</string>
+		<key>type</key>
+		<string>Museum</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>333 E. Trade Street</string>
+		<key>defaultSequence</key>
+		<integer>23</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>The Arena is home to the NBA&apos;s Charlotte Bobcats.  AHL Charlotte Checkers and a venue for top entertainers.  On the Plaza between Trade and 5th streets, see J. Paul Sires&apos; benches crafted from NC granite.  The leaf forms represent teamwork.  Andrew Leicester&apos;s colorful cylindrical art recalls Charlotte&apos;s past mill industry with his 23&apos; Bobbins and 6&apos; Textile Shuttles.</string>
+		<key>image</key>
+		<string>timewarner</string>
+		<key>latitude</key>
+		<real>35.2250606</real>
+		<key>longitude</key>
+		<real>-80.8393335</real>
+		<key>name</key>
+		<string>Time Warner Cable Arena</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>Time Warner Cable Arena</string>
+		<key>type</key>
+		<string>Sports</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>201 E. Trade Street</string>
+		<key>defaultSequence</key>
+		<integer>24</integer>
+		<key>extension</key>
+		<string>png</string>
+		<key>favorite</key>
+		<false/>
+		<key>fulltext</key>
+		<string>This multi-level entertainment facility hosts a variety of restaurants, nightlife, shops, modern bowling lanes, a movie theatre with cushy amenities, and great views of the city.</string>
+		<key>image</key>
+		<string>epicentre</string>
+		<key>latitude</key>
+		<real>35.2262411</real>
+		<key>longitude</key>
+		<real>-80.8419351</real>
+		<key>name</key>
+		<string>EpiCentre</string>
+		<key>sequence</key>
+		<integer>0</integer>
+		<key>shortName</key>
+		<string>EpiCentre</string>
+		<key>type</key>
+		<string>Shopping</string>
+	</dict>
+</array>
+</plist>
